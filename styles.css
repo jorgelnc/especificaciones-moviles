@@ -1,0 +1,83 @@
+body {
+    background-image: url(./imagenes/17973908.jpg);
+    background-size: cover;
+    font-family: 'Dosis', 'Arial';
+}
+.contenido-principal {
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+    border-radius: 20px;
+    width: auto;
+    margin-top: 40px;
+}
+.tituloprincipal {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    text-shadow: 0px 4px 4px rgb(0, 0, 0, 0.25);
+}
+
+.titulosecundario {
+    text-shadow: 0px 4px 4px rgb(0, 0, 0, 0.25);
+    margin-left: 20px;
+}
+
+.categoria {
+    margin-left: 20px;
+    color: red;
+    text-shadow: 0px 4px 4px rgb(0, 0, 0, 0.25);
+}
+
+.listacategoria {
+    font-weight: 700;
+}
+
+.imagencelular {
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    }
+
+.samsungA23 {
+    background-color: rgb(178, 221, 235);
+    border-radius: 20px;
+    margin-left: 40px;
+    border-style: outset;
+    }
+.samsungA32 {
+    background-color: rgb(178, 221, 235);
+    border-radius: 20px;
+    margin-left: 40px;
+    border-style: outset;
+}
+.samsungA31 {
+    background-color: rgb(178, 221, 235);
+    border-radius: 20px;
+    margin-left: 40px;
+    border-style: outset;
+}
+.samsungA22 {
+    background-color: rgb(178, 221, 235);
+    border-radius: 20px;
+    margin-left: 40px;
+    border-style: outset;
+}
+.samsungA30S {
+    background-color: rgb(178, 221, 235);
+    border-radius: 20px;
+    margin-left: 40px;
+    border-style: outset;
+}
+.samsungA30 {
+    background-color: rgb(178, 221, 235);
+    border-radius: 20px;
+    margin-left: 40px;
+    border-style: outset;
+}
+.samsungA10S {
+    background-color: rgb(178, 221, 235);
+    border-radius: 20px;
+    margin-left: 40px;
+    border-style: outset;
+}
